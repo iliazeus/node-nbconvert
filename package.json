@@ -1,6 +1,6 @@
 {
   "name": "nbconvert",
-  "version": "7.2.9",
+  "version": "7.6.0",
   "description": "Converting Jupyter Notebooks",
   "bin": "./run.js",
   "scripts": {
